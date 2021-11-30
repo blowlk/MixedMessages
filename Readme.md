@@ -3,6 +3,7 @@ this code was written for the portfolio on the CodeAcademy.
 If you add this code to the beggining of your programm it will inspire your user every time it loging in
 
 
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -11,7 +12,7 @@ If you add this code to the beggining of your programm it will inspire your user
 
 
 ## General Information
-it is simple code that generate random message depend on week day
+it is simple code that generate random greetings, ascii drawing dependent on week day and inspiring phrase from star wars
 
 
 ## Technologies Used
